@@ -1,7 +1,7 @@
 # Getting Started with Create React App used for the PlantShed Project
 
 ## Available Scripts
-1. shopApp (React App)
+1. PlantShed (React App)
 
 In the project directory, you can run:
 
