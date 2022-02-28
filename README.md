@@ -2,6 +2,7 @@
 
 ## Available Scripts
 1. PlantShed (React App)
+- to navigate multiverse/ multiverse/ multiverse-swe08/ PlantShed
 
 In the project directory, you can run:
 
