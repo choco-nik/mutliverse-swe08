@@ -1,3 +1,10 @@
-run python apprentice.py to start the flaks server
+run python main.py to start the flask server
 runs on port 5050
-Currently POST request doesn't work, so the DELETE/ PUT can't be tested.
+
+
+Working CRUD Requests are:
+
+GET
+POST
+DELETE
+PUT
